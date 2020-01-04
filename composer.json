@@ -1,7 +1,7 @@
 {
-    "name": "friendsofsymfony/elastica-bundle",
+    "name": "anisimov/elastica-bundle",
     "type": "symfony-bundle",
-    "description": "Elasticsearch PHP integration for your Symfony project using Elastica",
+    "description": "Elasticsearch PHP integration for your Symfony project using Elastica (fork)",
     "keywords": ["doctrine2", "elastica", "elasticsearch", "mongodb", "search"],
     "homepage": "https://github.com/FriendsOfSymfony/FOSElasticaBundle",
     "license": "MIT",
